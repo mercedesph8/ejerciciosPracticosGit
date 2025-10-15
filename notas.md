@@ -8,3 +8,8 @@ Asignaturas 2º curso DAW
 - Optativa
 - Proyecto Intermodular
 - Prácticas DUAL en empresas
+
+Tareas pendientes
+- Terminar y entregar práctica de Git
+- Introducción Proyecto Intermodular
+- Repaso teoría Entorno Cliente y Servidor
