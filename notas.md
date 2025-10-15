@@ -7,3 +7,4 @@ Asignaturas 2º curso DAW
 - Itinerario para la Empleabilidad II
 - Optativa
 - Proyecto Intermodular
+- Prácticas DUAL en empresas
