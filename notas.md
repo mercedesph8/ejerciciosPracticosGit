@@ -13,3 +13,5 @@ Tareas pendientes
 - Terminar y entregar práctica de Git
 - Introducción Proyecto Intermodular
 - Repaso teoría Entorno Cliente y Servidor
+
+No hay más asignaturas de este curso. 
