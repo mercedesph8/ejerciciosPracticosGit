@@ -1,0 +1,2 @@
+Al intentar fusionar las dos ramas en las que se ha modificado la misma línea, me ha dado error. 
+Para resolverlo, he borrado los marcadores, he marcado el conflicto como resuelto y he subido los cambios. 
