@@ -1,4 +1,4 @@
-Asignaturas 2º curso DAW en Campus Camara:
+Asignaturas del Curso 2025-2026
 
 - - Desarrollo Web en Entorno Cliente (DWEC)
 - Desarrollo Web en Entorno Servidor (DWES)
