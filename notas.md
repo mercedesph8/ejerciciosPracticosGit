@@ -1,4 +1,4 @@
-Asignaturas del Curso 2025-2026
+ASIGNATURAS DAW NUEVAS
 
 - - Desarrollo Web en Entorno Cliente (DWEC)
 - Desarrollo Web en Entorno Servidor (DWES)
