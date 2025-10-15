@@ -1,7 +1,6 @@
 ASIGNATURAS DAW NUEVAS
 
-- - Desarrollo Web en Entorno Cliente (DWEC)
-- Desarrollo Web en Entorno Servidor (DWES)
+- Otra asignatura diferente
 - Diseño de Interfaces Web (DIW)
 - Despliegue de Aplicaciones Web (DAW)
 - Inglés
